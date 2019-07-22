@@ -6,9 +6,9 @@ namespace ConsoleApp1
 {
     class Task1
     {
-        public int add()
+        public int add(int a , int b)
         {
-            return 10 + 2;
+            return a + b;
         }
 
     }
